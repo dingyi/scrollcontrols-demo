@@ -1,0 +1,33 @@
+{
+  "name": "scrollcontrols-demo-useintersect",
+  "version": "1.0.0",
+  "description": "How to tie canvas objects to scrollTop while events keep working.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@pmndrs/branding": "0.0.8",
+    "@react-three/drei": "7.17.1",
+    "@react-three/fiber": "7.0.17",
+    "@types/three": "0.133.0",
+    "lodash-es": "4.17.21",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3",
+    "styled-components": "5.3.1",
+    "three": "0.133.1",
+    "valtio": "1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
